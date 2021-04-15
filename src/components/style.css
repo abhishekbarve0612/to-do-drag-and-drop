@@ -1,0 +1,24 @@
+input {
+  padding: 20px;
+  width: 300px;
+}
+
+input[type="submit"] {
+  background-color: darkcyan;
+  width: 150px;
+}
+
+.tasks ul {
+  min-height: 50vh !important;
+  min-width: 200px !important;
+  border: 1px solid black !important;
+}
+
+.all-tasks {
+  margin: 10px;
+}
+
+button {
+  padding: 20px;
+  width: 120px;
+}
